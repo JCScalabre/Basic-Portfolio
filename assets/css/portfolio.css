@@ -75,7 +75,7 @@ body {
 h1 {
 	color: #4aaaa5;
 	padding: 35px;
-	padding-bottom: 25px;
+	padding-bottom: 18px;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-weight: bold;
 	font-size: 30px;
@@ -174,3 +174,54 @@ h2 {
 	margin-left: 33px;
 }
 
+#scratch {
+	position: absolute;
+	top: 400px;
+	left: 189px;
+	text-align: center;
+	background: #4aaaa5;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 22px;
+	padding: 20px;
+	width: 234px;
+	color: white;
+}
+
+#link2 {
+	position: absolute;
+	top: 400px;
+	left: 500px;
+	text-align: center;
+	background: #4aaaa5;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 22px;
+	padding: 20px;
+	width: 234px;
+	color: white;
+}
+
+#link3 {
+	position: absolute;
+	top: 645px;
+	left: 189px;
+	text-align: center;
+	background: #4aaaa5;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 22px;
+	padding: 20px;
+	width: 234px;
+	color: white;
+}
+
+#link4 {
+	position: absolute;
+	top: 645px;
+	left: 500px;
+	text-align: center;
+	background: #4aaaa5;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 22px;
+	padding: 20px;
+	width: 234px;
+	color: white;
+}
